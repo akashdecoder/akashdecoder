@@ -1,12 +1,12 @@
-### Hi, I'm Akash 👋
+# Hi, I'm Akash <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=akashdecoder&count_private=true&show_icons=true&layout=default&include_all_commits=true&theme=dark)
 
 ## My Profiles:
-#### [**Hackerrank**](https://www.hackerrank.com/Dynamic15CODER)
+### [**Hackerrank**](https://www.hackerrank.com/Dynamic15CODER)
 
-#### [**LinkedIn**](https://www.linkedin.com/in/akashranjan-das-8a5370169/)
+### [**LinkedIn**](https://www.linkedin.com/in/akashranjan-das-8a5370169/)
 <!--
 Here are some ideas to get you started:
 
