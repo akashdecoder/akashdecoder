@@ -6,7 +6,7 @@
 ## My Profiles:
 ### [**Hackerrank**](https://www.hackerrank.com/Dynamic15CODER)
 
-### [**LinkedIn**](https://www.linkedin.com/in/akashranjan-das-8a5370169/)
+### [**LinkedIn**](https://www.linkedin.com/in/akash-ranjan-das-8a5370169/)
 
 ### [**Website**](https://akashranjandas.herokuapp.com/)
 <!--
